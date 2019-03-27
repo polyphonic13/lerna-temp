@@ -1,0 +1,9 @@
+{
+  "name": "@bellatrix/editor",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@bellatrix/player": "^0.1.0"
+  }
+}

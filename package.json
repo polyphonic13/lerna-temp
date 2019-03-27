@@ -1,0 +1,14 @@
+{
+  "name": "lerna-temp",
+  "version": "1.0.0",
+  "description": "lerna test",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packges/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
